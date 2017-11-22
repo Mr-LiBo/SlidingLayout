@@ -1,3 +1,3 @@
 # SlidingLayout
 SlidingLayout
-![ABC](http://www.baidu.com/img/bdlogo.gif)
+![ABC](https://github.com/Mr-LiBo/SlidingLayout/blob/master/img/img.jpg)
